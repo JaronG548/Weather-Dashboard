@@ -1,0 +1,51 @@
+header {
+    background-color: aquamarine;
+    border: 15%;
+    box-sizing: border-box;
+    margin: 5px;
+    padding: 5px;
+}
+
+#title {
+text-align: center;
+text-decoration: solid;
+color: royalblue;
+border: 35px;
+}
+
+aside {
+    text-align: left;
+    inline-size: auto;
+    float: left;
+    flex-direction: column;
+
+}
+
+input {
+    text-align: left;
+}
+
+button {
+    text-align: left;
+    background-color: royalblue;
+    color: antiquewhite;
+}
+
+main{
+    justify-content: center;
+}
+
+.Today{
+    border: 1px solid lightskyblue;
+    padding: 20px;
+    margin: 5px;
+    display: block;
+   
+}
+
+.info {
+    border: 1px solid lightskyblue;
+    padding: 20px;
+    margin: 5px;
+    display: inline-block;
+}
